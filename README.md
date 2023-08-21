@@ -60,9 +60,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/hassnabrar/hassnabrar/output/snake.svg" alt="Snake animation" />
 
 ###
 
