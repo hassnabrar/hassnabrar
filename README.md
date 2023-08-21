@@ -1,8 +1,5 @@
 <h3 align="left">Hi 👋! My name is Hassan Abrar and I'm a Computer Engineer and I recently graduated from NUST with solid knowledge in Software Quality Assurance (SQA) and Databases. I am an above-average badminton player and a good debater as well 🙂</h3>
 
-###
-
-<img align="right" height="150" src="https://drive.google.com/file/d/1moa95j7ZTTqqrC9nZALor9GCf0b1_u6q/view?usp=sharing"  />
 
 ###
 
