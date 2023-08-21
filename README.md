@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://drive.google.com/file/d/1moa95j7ZTTqqrC9nZALor9GCf0b1_u6q/view?usp=sharing"  />
 
 ###
 
@@ -50,19 +50,17 @@
 
 <div align="left">
   <a href="https://www.instagram.com/hassn._.abrar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=hassn._.abrar&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=hassn._.abrar&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="hassanabrarmughal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/hasn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/hassnabrar/hassnabrar/output/snake.svg" alt="Snake animation" />
 
@@ -72,6 +70,9 @@
   <a href="https://open.spotify.com/user/31g25ntskfyoqlu2fdyox2n2clry">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g25ntskfyoqlu2fdyox2n2clry" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
 </div>
 
 ###
